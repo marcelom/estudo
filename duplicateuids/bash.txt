@@ -1,0 +1,3 @@
+cat uids.txt | sort -t: -k2 -n | cut -d: -f 2,1
+
+#incomplete
