@@ -34,13 +34,11 @@ surprise
 sweet
 swim
 system
-T
 table
 tail
 talk
 tall
 taste
-T cont.
 tax
 teaching
 tendency
@@ -77,18 +75,14 @@ trouble
 trousers
 turn
 twist
-U
 umbrella
 unit
-V
 value
 verse
 vessel
-V cont.
 view
 violent
 voice
-W
 waiting
 walk
 wall
@@ -123,13 +117,10 @@ worm
 wound
 writing
 wrong
-Y
 year
 yellow
 yesterday
 young
-
-N
 necessary
 neck
 need
@@ -144,7 +135,6 @@ north
 nose
 note
 nut
-O
 observation
 offer
 office
@@ -160,7 +150,6 @@ organization
 ornament
 oven
 owner
-P
 page
 pain
 paint
@@ -199,7 +188,6 @@ potato
 powder
 power
 present
-P cont.
 price
 print
 prison
@@ -217,13 +205,11 @@ pump
 punishment
 purpose
 push
-Q
 quality
 question
 quick
 quiet
 quite
-R
 rail
 rain
 range
@@ -262,7 +248,6 @@ round
 rub
 rule
 run
-S
 sad
 safe
 sail
@@ -270,7 +255,6 @@ salt
 sand
 scale
 school
-S cont.
 science
 scissors
 screw
@@ -337,8 +321,6 @@ spade
 special
 sponge
 spoon
-
-E
 effect
 egg
 elastic
@@ -356,7 +338,6 @@ expansion
 experience
 expert
 eye
-F
 face
 fact
 fall
@@ -400,7 +381,6 @@ front
 fruit
 full
 future
-G
 garden
 general
 girl
@@ -408,7 +388,6 @@ glass
 glove
 goat
 gold
-G cont.
 government
 grain
 grass
@@ -420,7 +399,6 @@ group
 growth
 guide
 gun
-H
 hair
 hammer
 hand
@@ -462,14 +440,12 @@ interest
 invention
 iron
 island
-J
 jelly
 jewel
 join
 journey
 judge
 jump
-K
 kettle
 key
 kick
@@ -479,9 +455,7 @@ knee
 knife
 knot
 knowledge
-L
 land
-L cont.
 language
 late
 laugh
@@ -508,7 +482,6 @@ loss
 loud
 love
 low
-M
 machine
 male
 manager
@@ -546,12 +519,9 @@ mouth
 move
 muscle
 music
-N
 nail
 narrow
 nation
-
-A
 able
 account
 acid
@@ -586,7 +556,6 @@ attraction
 authority
 automatic
 awake
-B
 baby
 bafflement
 bag
@@ -619,7 +588,6 @@ boat
 body
 boiling
 bone
-B cont.
 book
 boot
 bottle
@@ -646,7 +614,6 @@ burst
 business
 butter
 button
-C
 cake
 camera
 canvas
@@ -687,7 +654,6 @@ common
 company
 comparison
 competition
-C cont.
 complete
 complex
 condition
@@ -713,7 +679,6 @@ current
 curtain
 curve
 cushion
-D
 damage
 dark
 daughter
@@ -750,10 +715,8 @@ drink
 drop
 dry
 dust
-E
 ear
 early
 earth
 east
 edge
-
